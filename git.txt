@@ -1,3 +1,5 @@
 https://github.com/Anvi44/GitDemo.git
 
+git done
+
 682  git init  683  ls -al  684  cd .git  685  ls  686  cd ..  687  git remote add origin "https://github.com/Tsathyaas/GIT_Life_Cycle.git"  688  ls -al  689  git pull origin master  690  ls -al  691  touch GIT  692  ls -al  693  touch GIT.txt  694  rm GIT  695  ls a-l  696  ls -al  697  clear  698  git status  699  git add GIT.txt  700  git status  701  git commit -m "Initial GIT.txt file added"  702  git status  703  git push origin master  704  history
